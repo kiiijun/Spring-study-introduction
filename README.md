@@ -1,4 +1,5 @@
-# Spring-first-project
+# Spring-study-introduction
+스프링 핵심 원리 입문편 공부
 spring boot를 사용한 간단한 회원가입, 조회 프로그램입니다.
 
 ## <공부내용>
